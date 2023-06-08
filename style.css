@@ -1,0 +1,21 @@
+h1 {
+   color: rgb(174, 0, 255); 
+   font-size: 50px;
+   text-align: center;
+}
+p, li{
+    font-size: 20px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+}
+html{
+    background-color: bisque;
+}
+body{
+    width: 80%;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
